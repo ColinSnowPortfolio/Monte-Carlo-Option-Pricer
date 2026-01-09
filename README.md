@@ -9,7 +9,7 @@ Features:
 -Modular and clean C++ code using classes, headers, and CMake build system
 
 Purpose / Skills Demonstrated:
--Quantitative finance modeling (option pricing)
--Monte Carlo simulation and stochastic processes
--Modern C++ programming, including classes, vectors, and range-based loops
--Software organization for portfolio-ready projects
+- Quantitative finance modeling (option pricing)
+- Monte Carlo simulation and stochastic processes
+- Modern C++ programming, including classes, vectors, and range-based loops
+- Software organization for portfolio-ready projects
